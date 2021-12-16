@@ -15,3 +15,18 @@ pe파일
 Portable Excutable 파일
 윈도우 상에서 실행 가능한 프로그램
 ex) exe dll sys 등등
+
+## 진행사항
+class EmberParser:
+ import 하는 라이브러리
+    def imports_info(self):
+ 악성코드의 경우 export 할 것
+    def exports_info(self):
+  데이터 디렉토리   
+ def get_datadirectories_info(self):
+ 
+class PestudioParser:
+이미지
+def get_image_info(self):
+인증서가 있으면0, 없으면1
+def get_certificate_info(self):
